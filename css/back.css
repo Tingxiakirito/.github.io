@@ -93,3 +93,14 @@ img {
     #footer:before {
         background-color: rgba(0, 0, 0, 0);
     }
+
+.read-mode {
+    /* �����С */
+    font-size: 17px;
+    /* ���������������Զ������壬���巽�������аٶ�css�������� */
+}
+
+    .read-mode #web_bg {
+        /* ������ɫ */
+        background: #fdf6e3;
+    }
